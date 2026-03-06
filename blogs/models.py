@@ -17,7 +17,7 @@ STATUS_CHOICES = (
     ("Draft", "Draft"),
     ("Published" , "Published"),
 )
-
+    
 
 
 class Blog(models.Model):
